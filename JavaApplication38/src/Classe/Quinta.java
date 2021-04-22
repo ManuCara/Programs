@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication38;
+package Classe;
 
 /**
  *
  * @author manuc
  */
-public class JavaApplication38 {
+public class Quinta {
 
     /**
      * @param args the command line arguments
